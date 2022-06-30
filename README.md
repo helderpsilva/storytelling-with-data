@@ -25,4 +25,4 @@
 </p>
 
 ### Credits
-@vizpilgrim (Dilyana Bossenz) - Inspirtation for the line chart.
+@vizpilgrim (Dilyana Bossenz) - Inspiration for the line chart.
