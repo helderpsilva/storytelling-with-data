@@ -9,7 +9,7 @@
 </p>
 
 ### 📖 Notebooks
-1. [**Line chart**](notebooks/line_plot.ipynb)
+1. [**Line chart**](notebooks/line_chart.ipynb)
 ### ⚡ Examples
 
 <h6 align="center">BEFORE</h6>
