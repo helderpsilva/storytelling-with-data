@@ -13,8 +13,6 @@
 2. [**Bar chart**](notebooks/bar_chart.ipynb)
 ### ⚡ Examples
 
-<br>
-
 #### Line Plot
 <div align="center">
   <div style="display:flex">
