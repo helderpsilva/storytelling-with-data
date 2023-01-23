@@ -10,19 +10,38 @@
 
 ### 📖 Notebooks
 1. [**Line chart**](notebooks/line_chart.ipynb)
+2. [**Bar chart**](notebooks/bar_chart.ipynb)
 ### ⚡ Examples
 
-<h6 align="center">BEFORE</h6>
+<br>
 
-<p align="center">
-  <img width="90%" src="img/line-plot-before.png" alt="Esquema Perceptron">
-</p>
+#### Line Plot
+<div align="center">
+  <div style="display:flex">
+    <div>
+      <div>BEFORE</div>
+      <img src="img/line-plot-before.png" width="98%" />
+    </div>
+    <div>
+      <div>AFTER</div>
+      <img src="img/line-plot-after.png" width="98%"/> 
+    </div>
+  </div>
+</div>
 
-<h6 align="center">AFTER</h6>
-
-<p align="center">
-  <img width="90%" src="img/line-plot-after.png" alt="Esquema Perceptron">
-</p>
+#### Bar Plot
+<div align="center">
+  <div style="display:flex">
+    <div>
+      <div>BEFORE</div>
+      <img src="img/bar-plot-before.png" width="98%" />
+    </div>
+    <div>
+      <div>AFTER</div>
+      <img src="img/bar-plot-after.png" width="98%"/> 
+    </div>
+  </div>
+</div>
 
 ### Credits
 @vizpilgrim (Dilyana Bossenz) - Inspiration for the line chart.
